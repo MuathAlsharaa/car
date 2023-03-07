@@ -1,0 +1,312 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+
+
+}
+
+
+
+.Moo{
+    background: rgba(0,0,0,0.7) url('imgcar/photo_2023-03-05_16-09-11.jpg');
+    background-size:cover;
+    background-blend-mode: darken; 
+    background-repeat:no-repeat;
+
+
+ 
+    
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 490px) { 
+.Moo{
+    
+        background-position: center  center ;
+    
+    }
+     }
+    
+     /* Medium devices (tablets, 768px and up) */
+     @media (min-width: 768px) { 
+.Moo{
+    
+            background-position: top   ;
+        
+        }
+    
+      }
+      /* // Large devices (desktops, 992px and up) */
+      @media (min-width: 992px) {
+.Moo{
+    
+            background-position: top   ;
+        
+        }
+       }
+
+
+
+
+
+
+
+.m90{
+
+    background-color: black;
+}
+#sc{
+    background-color: blue;
+}
+#mm{
+    color: rgb(7, 251, 93);
+}
+
+
+#navbarSupportedContent ul li a{
+    color: yellow;
+}
+
+
+
+#icon1 img{
+    width: 34px;
+    /* margin:  0.4rem;  */
+  margin-right: 20px; 
+  
+}
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 490px) {
+    #icon1{
+        padding-left: 75px;  
+    }
+            
+    }
+    
+     /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 768px) {
+    #icon1{
+    padding-left: 140px;  
+    }
+     }
+    
+    
+    
+    /*  Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) {
+    #icon1{
+        /* padding-left: 245px;   */
+        padding-left:355px; 
+    }
+     }
+
+
+
+#icon1 svg{
+    color: yellow;
+}
+
+#icon1 svg:hover{
+    color:rgb(0, 170, 255) ;
+}
+
+#nav2{
+    background-color: black;
+}
+.nav11{
+    background-color: rgb(39, 27, 27);
+}
+
+
+
+#navbarSupportedContent ul li a:hover{
+    color: rgb(152, 152, 0);
+}
+
+
+#img22 img{
+    width: 250px;
+    /* display: inline-block; */
+    cursor: pointer;
+    margin-left: 30px ;
+    margin-bottom: 30px;
+    position:30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 490px) {
+
+    #img22 img{
+        margin-left:120px;
+    }
+            
+    }
+
+
+
+
+         /* Medium devices (tablets, 768px and up) */
+@media (min-width: 506px) {
+    #img22 img{
+  
+        margin-left: 100px ;
+      
+    }
+     }
+
+
+
+     /* Medium devices (tablets, 768px and up) */
+@media (min-width: 758px) {
+    #img22 img{
+        margin-left: 200px;
+        width: 300px;
+    }
+     }
+
+
+
+
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    #img22 img{
+        width: 250px;
+        /* display: inline-block; */
+        cursor: pointer;
+        margin-left: 70px ;
+        margin-bottom: 70px;
+        position:30px;
+    }
+     }
+
+.oo{
+    color: rgb(255, 251, 251);
+}
+
+
+
+
+
+
+
+a #LI{
+    list-style-type: none;
+}
+
+svg{
+    width: 50px; 
+     /* color: rgb(81, 214, 255); */
+   color: yellow;
+    
+}
+
+
+svg:hover{
+  
+    transition: 0.5s;  
+    color: rgb(0, 215, 248); 
+     /* color: (red,yellow) */
+     
+
+
+
+
+
+}
+
+
+#UL li a:hover{
+    opacity: 0.7;
+    transition: 0.8s;
+  
+}
+
+
+
+#IG{
+    margin-left: 500px;
+}
+#IG svg {
+    color: rgb(255, 255, 255); 
+    width: 20px;
+    cursor: pointer;
+    margin-left: 5px;
+    
+    
+
+}
+#IG svg:hover{
+    color:rgb(255, 255, 0);
+
+
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 490px) {
+
+    #IG{
+        margin-left: 190px;
+    }
+            
+    }
+
+
+
+
+         /* Medium devices (tablets, 768px and up) */
+@media (min-width: 506px) {
+    #IG{
+        margin-left: 230px;
+    }
+     }
+
+
+
+     /* Medium devices (tablets, 768px and up) */
+@media (min-width: 758px) {
+    #IG{
+        margin-left: 350px;
+    }
+     }
+
+
+
+
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    #IG{
+        margin-left: 500px;
+    }
+     }
+
+#FOT{
+    cursor: pointer;
+}
+
+#IG{
+    list-style-type: none;
+}
+
+
+#icon1 li{
+    list-style-type: none;
+}
